@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <customerId>789</customerId>
+    <customerName>Yeuda Coen</customerName>
+    <customerAddress>netivot hamishpat 5</customerAddress>
+    <customerPhone>0545555555</customerPhone>
+  </Customer>
+  <Customer>
+    <customerId>663</customerId>
+    <customerName>Shimon Segal</customerName>
+    <customerAddress>Jerusalem 15</customerAddress>
+    <customerPhone>054566666</customerPhone>
+  </Customer>
+  <Customer>
+    <customerId>747</customerId>
+    <customerName>Yosef Levi</customerName>
+    <customerAddress>Mrome Sade 7</customerAddress>
+    <customerPhone>058566666</customerPhone>
+  </Customer>
+  <Customer>
+    <customerId>886</customerId>
+    <customerName>Avraam Shechter</customerName>
+    <customerAddress>Mesilat Yosef 21</customerAddress>
+    <customerPhone>053566666</customerPhone>
+  </Customer>
+  <Customer>
+    <customerId>320</customerId>
+    <customerName>Yona Lang</customerName>
+    <customerAddress>Netivot Shalom 7</customerAddress>
+    <customerPhone>052566666</customerPhone>
+  </Customer>
+</ArrayOfCustomer>

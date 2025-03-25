@@ -1,0 +1,13 @@
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\bin\DalXml.deps.json
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\bin\DalXml.dll
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\bin\DalXml.pdb
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.dll
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.pdb
+Z:\B\קניג מלכה\c#\DotNet2025_2441_0520\DalXml\obj\Debug\ref\DalXml.dll

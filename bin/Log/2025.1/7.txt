@@ -1,0 +1,146 @@
+	07/01/2025 13:17:48	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:17:48	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:17:49	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:17:49	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:17:49	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:18:04	Dal.ProductImplementation.ReadAll	Enter the function to read all with filter:  products
+	07/01/2025 13:18:04	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	07/01/2025 13:18:55	Dal.ProductImplementation.Update	Enter the function to update product
+		07/01/2025 13:18:55	Dal.ProductImplementation.Delete	Enter the function to delete product
+			07/01/2025 13:18:55	Dal.ProductImplementation.Read	Enter the function to read a product
+			07/01/2025 13:18:55	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+		07/01/2025 13:18:55	Dal.ProductImplementation.Delete	Successfully exited the function to delete product
+	07/01/2025 13:18:55	Dal.ProductImplementation.Update	Successfully exited the function to update product
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 13:21:58	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 13:21:58	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 13:21:58	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 13:22:05	Dal.CustomerImplementation.ReadAll	Enters the function to read all with filter:  customers
+	07/01/2025 13:22:05	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+	07/01/2025 13:22:17	Dal.CustomerImplementation.Read	Enters the function to read a customer
+	07/01/2025 13:22:17	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	07/01/2025 13:22:23	Dal.CustomerImplementation.Update	Enters the function to update customers
+		07/01/2025 13:22:23	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+			07/01/2025 13:22:23	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			07/01/2025 13:22:23	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+		07/01/2025 13:22:23	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+	07/01/2025 13:22:23	Dal.CustomerImplementation.Update	Successfully exited the function to update customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:08:00	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:08:00	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:08:00	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:08:22	Dal.CustomerImplementation.ReadAll	Enters the function to read all with filter:  customers
+	07/01/2025 14:08:22	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+	07/01/2025 14:08:39	Dal.CustomerImplementation.Update	Enters the function to update customers
+		07/01/2025 14:08:39	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+			07/01/2025 14:08:39	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			07/01/2025 14:08:39	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+		07/01/2025 14:08:39	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+	07/01/2025 14:08:39	Dal.CustomerImplementation.Update	Successfully exited the function to update customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	07/01/2025 14:10:13	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Enter the function to create product
+	07/01/2025 14:10:13	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Enters the function to create a sale
+	07/01/2025 14:10:13	Dal.SaleImplementation.Create	Successfully exited the function to create a sale

@@ -1,0 +1,30 @@
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Enters the function to create a customer
+	26/02/2025 21:55:24	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Enter the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Enter the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Enter the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Enter the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Enter the function to create product
+	26/02/2025 21:55:24	Dal.ProductImplementation.Create	Successfully exited the function to create product
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Enters the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Enters the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Enters the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Enters the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Successfully exited the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Enters the function to create a sale
+	26/02/2025 21:55:24	Dal.SaleImplementation.Create	Successfully exited the function to create a sale

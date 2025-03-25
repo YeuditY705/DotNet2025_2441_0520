@@ -1,0 +1,3 @@
+﻿
+namespace DO;
+public enum Categories { JEWELES, HANDKERCHIEF, SOCKS,FASHION_PRODUCT,HAIR_AACCESSORY }

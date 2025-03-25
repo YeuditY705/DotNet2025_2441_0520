@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <productId>101</productId>
+    <productName>chain with name</productName>
+    <category>JEWELES</category>
+    <productPrice>150</productPrice>
+    <productQuantity>20</productQuantity>
+  </Product>
+  <Product>
+    <productId>102</productId>
+    <productName>suri handkercheif</productName>
+    <category>HANDKERCHIEF</category>
+    <productPrice>350</productPrice>
+    <productQuantity>5</productQuantity>
+  </Product>
+  <Product>
+    <productId>103</productId>
+    <productName>baby socks</productName>
+    <category>SOCKS</category>
+    <productPrice>20</productPrice>
+    <productQuantity>15</productQuantity>
+  </Product>
+  <Product>
+    <productId>104</productId>
+    <productName>umbrela</productName>
+    <category>FASHION_PRODUCT</category>
+    <productPrice>40</productPrice>
+    <productQuantity>30</productQuantity>
+  </Product>
+  <Product>
+    <productId>105</productId>
+    <productName>girl rainboy</productName>
+    <category>HAIR_AACCESSORY</category>
+    <productPrice>15</productPrice>
+    <productQuantity>23</productQuantity>
+  </Product>
+</ArrayOfProduct>
