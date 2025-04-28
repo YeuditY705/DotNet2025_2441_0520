@@ -72,6 +72,8 @@ internal class ProductImplementatiton :BlApi.IProduct
     {
         try
         {
+           if(filter==null)
+                return _dal.Product.ReadAll().Select(p => p.ConvertToBOProduct()).ToList();
             return _dal.Product.ReadAll(doProduct => filter(doProduct.ConvertToBOProduct())).Select(p => p.ConvertToBOProduct()).ToList();
         }
         catch (Exception e)

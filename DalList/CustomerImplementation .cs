@@ -9,18 +9,24 @@ internal class CustomerImplementation : ICustomer
 {
     public int Create(Customer item)
     {
-        LogManager.space += "\t";
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to create a customer");
-        if (DataSource.Customers.Any(c => c.customerId == item.customerId))
+        try
         {
-            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Failed to exited the function to create a customer");
+            LogManager.space += "\t";
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to create a customer");
+            if (DataSource.Customers.Any(c => c.customerId == item.customerId))
+            {
+                LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Failed to exited the function to create a customer");
+                LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
+                throw new DalIdAlreadyExists("customer id already exists");
+            }
+            DataSource.Customers.Add(item);
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to create a customer");
             LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
-            throw new DalIdAlreadyExists("customer id already exists");
+            return item.customerId;
         }
-        DataSource.Customers.Add(item);
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to create a customer");
-        LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
-        return item.customerId;
+        catch (Exception ex) {
+            throw ex;
+        }
     }
 
     public void Delete(int id)

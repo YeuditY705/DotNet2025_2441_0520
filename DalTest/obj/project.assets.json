@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
+      "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
       "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\obj\\",
+      "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,14 +95,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
             },
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
             },
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
             }
           }
         }

@@ -11,6 +11,11 @@ internal class Program
     {
         try
         {
+            //s_bl.Product.ReadAll().ToStringProperty();
+           // s_bl.Sale.ReadAll().SelectMany(p => p.ToStringProperty().Split("\n")).ToList();
+           // Product product=s_bl.Product.Read(104);
+            //s_bl.Product.Update(product);
+            //s_bl.Customer.ReadAll().Select(c => c.ToStringProperty());
             Console.WriteLine("to Initialize press 1, not Initialize press other");
             int init;
             int.TryParse(Console.ReadLine(), out init);

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -9,21 +10,28 @@ namespace BO;
 
 public static class Tools
 {
-    public static string ToStringProperty<T>(this T obj, string prefix = "")
+    public static string ToStringProperty<T>(this T t)
     {
-        StringBuilder sb = new StringBuilder();
-        Type t = obj?.GetType() ?? throw new Exception("Obj is NULL");
-        foreach (PropertyInfo prop in t.GetProperties())
+        string str = "";
+        Type Ttype = t.GetType();
+        PropertyInfo[] info = Ttype.GetProperties();
+        foreach (PropertyInfo item in info)
         {
-            if (prop.PropertyType.IsPrimitive
-                || prop.PropertyType == typeof(string)
-                || prop.PropertyType == typeof(DateTime))
-                sb.AppendLine($"{prefix}{prop.Name} = {prop.GetValue(obj)}");
+            if (typeof(IEnumerable).IsAssignableFrom(item.PropertyType) && item.PropertyType != typeof(string))
+            {
+                IEnumerable collection = item.GetValue(t) as IEnumerable;
+                foreach (var x in collection)
+                {
+                    str += x.ToStringProperty();
+                }
+            }
             else
-                sb.Append($"{prefix}{prop.Name} =\n{prop.GetValue(obj).ToStringProperty(prefix + "\t")}");
+                str += string.Format("{0,-15}:{1,-15}\n", item.Name, item.GetValue(t, null));
+
         }
-        return sb.ToString();
+        return str;
     }
+
 
     public static BO.Customer ConvertToBOCustomer(this DO.Customer customer)=> new() { CustomerId = customer.customerId, CustomerAddress = customer.customerAddress, CustomerName = customer.customerName, CustomerPhone = customer.customerPhone };
        

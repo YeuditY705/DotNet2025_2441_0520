@@ -10,9 +10,9 @@ namespace Dal;
 
 public class DalXml : IDal
 {
-    public IProduct Product => new ProductImplemention();
-
-    public ISale Sale => new SaleImplemention();
+    public IProduct Product => new ProductImplementation();
+    
+    public ISale Sale => new SaleImplementation();
 
     public ICustomer Customer => new CustomerImplementation();
 

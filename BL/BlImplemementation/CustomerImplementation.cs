@@ -91,7 +91,9 @@ internal class CustomerImplementation : BlApi.ICustomer
     {
         try
         {
+            if(filter!=null)
             return _dal.Customer.ReadAll(doCustomer => filter(doCustomer.ConvertToBOCustomer())).Select(c => c.ConvertToBOCustomer()).ToList();
+            return _dal.Customer.ReadAll().Select(c => c.ConvertToBOCustomer()).ToList();
         }
         catch (Exception e)
         {

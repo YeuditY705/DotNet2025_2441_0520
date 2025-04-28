@@ -24,7 +24,8 @@ public static class Initialization
     }
     private static void createSales()
     {
-        s_dal.Sale.Create(new Sale(0, 100, 1, 135, true, DateTime.Now, new DateTime(2024, 12, 5)));
+        s_dal.Sale.Create(new Sale(0, 101, 1, 315, false, DateTime.Now, new DateTime(2025, 12, 5)));
+            //(new Sale(0, 100, 1, 135, true, DateTime.Now, new DateTime(2024, 12, 5)));
         s_dal.Sale.Create(new Sale(0, 101, 1, 315, false, new DateTime(2024, 1, 1), new DateTime(2025, 12, 5)));
         s_dal.Sale.Create(new Sale(0, 102, 3, 18, true, DateTime.Now, new DateTime(2024, 12, 5)));
         s_dal.Sale.Create(new Sale(0, 103, 2, 36, false, DateTime.Now, new DateTime(2024, 12, 5)));
@@ -34,8 +35,8 @@ public static class Initialization
     public static void Initialize()
     {
         s_dal = Factory.Get;
-        createCustomers();
-        createProducts();
+       createCustomers();
+       // createProducts();
         createSales();
     }
 }

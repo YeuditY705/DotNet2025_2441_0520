@@ -59,7 +59,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "DalFacade": "1.0.0"
+          "DalFacade": "1.0.0",
+          "Tools": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DalXml.dll": {}
@@ -126,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
+      "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
       "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\obj\\",
+      "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,14 +153,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj"
             },
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj"
             },
-            "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
-              "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj"
+            "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
+              "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj"
             }
           }
         }

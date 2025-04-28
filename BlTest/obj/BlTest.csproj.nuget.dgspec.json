@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj": {}
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj": {}
   },
   "projects": {
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
         "projectName": "BlTest",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\BlTest.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BlTest\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BlTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\BL.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\BL\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,11 +109,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
               }
             }
           }
@@ -153,14 +153,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,14 +219,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,11 +248,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
               }
             }
           }
@@ -292,14 +292,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\DalTest.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalTest\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -321,14 +321,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalList\\DalList.csproj"
               },
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
               }
             }
           }
@@ -368,14 +368,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\DalXml.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalXml\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -397,8 +397,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\DalFacade\\DalFacade.csproj"
+              },
+              "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
+                "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj"
               }
             }
           }
@@ -438,14 +441,14 @@
         }
       }
     },
-    "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
+    "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj",
+        "projectUniqueName": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\Tools.csproj",
+        "projectPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\קניג מלכה\\c#\\DotNet2025_2441_0520\\Tools\\obj\\",
+        "outputPath": "Z:\\B\\יעקבזון יהודית\\C#\\DotNet2025_2441_0520\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

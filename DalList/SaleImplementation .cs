@@ -11,23 +11,34 @@ internal class SaleImplementation : ISale
 {
     public int Create(Sale item)
     {
-        LogManager.space += "\t";
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to create a sale");
-        Sale sale = item with { saleId = DataSource.Config.SailCod };
-        DataSource.Sales.Add(sale);
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to create a sale");
-        LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
-        return sale.saleId;
-
+        try
+        {
+            LogManager.space += "\t";
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to create a sale");
+            Sale sale = item with { saleId = DataSource.Config.SailCod };
+            DataSource.Sales.Add(sale);
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to create a sale");
+            LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
+            return sale.saleId;
+        }
+        catch (Exception ex) {
+            throw ex;
+        }
     }
 
     public void Delete(int id)
     {
-        LogManager.space += "\t";
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to delete a sale");
-        DataSource.Sales.Remove(Read(id));
-        LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to delete a sale");
-        LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
+        try {
+            LogManager.space += "\t";
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to delete a sale");
+            DataSource.Sales.Remove(Read(id));
+            LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to delete a sale");
+            LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
+        }
+        catch (Exception ex)
+        {
+            throw ex;
+        }
     }
 
     public Sale? Read(int id)
@@ -67,6 +78,7 @@ internal class SaleImplementation : ISale
 
     public List<Sale?> ReadAll(Func<Sale, bool>? filter = null)
     {
+        try { 
         LogManager.space += "\t";
         LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, $"Enters the function to read all sales with fiter: {filter}");
         if (filter != null)
@@ -80,16 +92,26 @@ internal class SaleImplementation : ISale
         }
         LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to read all sales");
         LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
-        return new List<Sale>(DataSource.Sales);
+        return new List<Sale>(DataSource.Sales);}
+        catch (Exception ex)
+        {
+            throw ex;
+        }
     }
 
     public void Update(Sale item)
     {
+        try { 
         LogManager.space += "\t";
         LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Enters the function to update a sale");
         Delete(item.saleId);
         DataSource.Sales.Add(item);
         LogManager.writingToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Successfully exited the function to update a sale");
         LogManager.space = LogManager.space.Substring(0, LogManager.space.Length - 1);
+    }
+        catch (Exception ex)
+        {
+            throw ex;
+        }
     }
 }

@@ -1,0 +1,14 @@
+	25/04/2025 08:54:20	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/04/2025 08:54:20	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/04/2025 08:54:20	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/04/2025 08:54:20	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+	25/04/2025 08:57:37	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/04/2025 08:57:37	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/04/2025 08:57:37	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/04/2025 08:57:37	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/04/2025 08:57:51	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/04/2025 08:57:51	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/04/2025 08:58:12	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/04/2025 08:58:12	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/04/2025 08:58:12	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/04/2025 08:58:12	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers

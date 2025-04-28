@@ -72,7 +72,9 @@ internal class SaleImplementation : BlApi.ISale
     {
         try
         {
-            return _dal.Sale.ReadAll(doSale => filter(doSale.ConvertToBOSale())).Select(s => s.ConvertToBOSale()).ToList();
+            if (filter != null)
+                return _dal.Sale.ReadAll(doSale => filter(doSale.ConvertToBOSale())).Select(c => c.ConvertToBOSale()).ToList();
+            return _dal.Sale.ReadAll().Select(c => c.ConvertToBOSale()).ToList();
         }
         catch (Exception e)
         {
