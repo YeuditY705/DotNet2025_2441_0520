@@ -102,3 +102,16 @@ C:\Users\user1\Desktop\DotNet2025_2441_0520\DalList\obj\Debug\DalList.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\DalList\obj\Debug\refint\DalList.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\DalList\obj\Debug\DalList.pdb
 C:\Users\user1\Desktop\DotNet2025_2441_0520\DalList\obj\Debug\ref\DalList.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalList.deps.json
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalList.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalList.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\refint\DalList.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\DalList.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalList\obj\Debug\ref\DalList.dll

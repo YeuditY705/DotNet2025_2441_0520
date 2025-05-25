@@ -214,6 +214,7 @@
             productDetails.ItemHeight = 15;
             productDetails.Location = new Point(137, 98);
             productDetails.Name = "productDetails";
+            productDetails.RightToLeft = RightToLeft.No;
             productDetails.Size = new Size(292, 169);
             productDetails.TabIndex = 3;
             // 
@@ -302,6 +303,7 @@
             listBoxAllProducts.ItemHeight = 15;
             listBoxAllProducts.Location = new Point(19, 95);
             listBoxAllProducts.Name = "listBoxAllProducts";
+            listBoxAllProducts.RightToLeft = RightToLeft.No;
             listBoxAllProducts.Size = new Size(367, 229);
             listBoxAllProducts.TabIndex = 0;
             // 

@@ -63,3 +63,16 @@ Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml
 Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520\DalXml\obj\Debug\refint\DalXml.dll
 Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520\DalXml\obj\Debug\DalXml.pdb
 Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalXml.deps.json
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalXml.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\DalXml.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\DalXml.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\DalXml\obj\Debug\ref\DalXml.dll

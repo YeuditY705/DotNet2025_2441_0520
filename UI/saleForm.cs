@@ -1,6 +1,5 @@
 ﻿using BlApi;
 using BO;
-using DO;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -20,11 +19,12 @@ namespace UI
 
         public saleForm()
         {
-            InitializeComponent();
+            
+                InitializeComponent();
 
-
-            listBoxInSide.DataSource = s_bl.Sale.ReadAll().SelectMany(s => s.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
-            listBoxAllSales.DataSource = s_bl.Sale.ReadAll().SelectMany(c => c.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
+                listBoxInSide.DataSource = s_bl.Sale.ReadAll().SelectMany(s => s.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
+                listBoxAllSales.DataSource = s_bl.Sale.ReadAll().SelectMany(c => c.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
+            
         }
 
         private void chooseSaleId_Click(object sender, EventArgs e)
@@ -33,7 +33,9 @@ namespace UI
             {
                 int saleId = (int)numericUpDownSaleId.Value;
                 saleDetails.Items.Clear();
-                saleDetails.Items.Add(s_bl.Sale.Read(saleId).ConvertToDOSale().ToStringProperty());
+                List<Sale> sales = new List<Sale>();
+                sales.Add(s_bl.Sale.Read(saleId));
+                saleDetails.DataSource = (sales.SelectMany(p => p.ConvertToDOSale().ToStringProperty().Split("\n")).ToList());
             }
             catch (Exception ex)
             {
@@ -43,7 +45,7 @@ namespace UI
 
         private void buttonFilterSaleByName_Click(object sender, EventArgs e)
         {
-            listBoxAllSales.DataSource = s_bl.Sale.ReadAll(s => s.IsForEveryOne == checkBoxIsForEveryOne.Checked).Select(s => s.ConvertToDOSale().ToStringProperty()).ToList();
+            listBoxAllSales.DataSource = s_bl.Sale.ReadAll(s => s.IsForEveryOne == checkBoxIsForEveryOne.Checked).SelectMany(s => s.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
         }
 
         private void addSaleButton_Click(object sender, EventArgs e)
@@ -87,10 +89,15 @@ namespace UI
 
         private void upDateListBoxAllSales()
         {
-            listBoxAllSalesInSide.DataSource = ""; // Update as needed
-            listBoxInSide.DataSource = s_bl.Sale.ReadAll().SelectMany(s => s.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
+            try
+            {
+                listBoxAllSalesInSide.DataSource = ""; // Update as needed
+                listBoxInSide.DataSource = s_bl.Sale.ReadAll().SelectMany(s => s.ConvertToDOSale().ToStringProperty().Split("\n")).ToList();
+            }
+            catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+            }
         }
-
         private void buttonUpdateSale_Click(object sender, EventArgs e)
         {
             try
@@ -139,17 +146,23 @@ namespace UI
 
         private void InsertDetailOfSale(object sender, EventArgs e)
         {
-            int saleId = int.Parse(saleIdUpdate.Text);
-            BO.Sale sale = s_bl.Sale.Read(saleId);
-            productIdInputaUpdate.Text = sale.ProductId.ToString();
-            salePriceInputUpdate.Text = sale.PriceInSale.ToString();
-            saleQuantityInputUpdate.Text = sale.QuantityForSale.ToString();
-            checkBoxIsForEveryOneUpdate.Checked = sale.IsForEveryOne ?? false;
+            try
+            {
 
-            dateTimeStartUpdate.Value = sale.StartDateForSale ?? DateTime.Now;
-            dateTimeEndUpdate.Value = sale.EndDateForSale ?? DateTime.Now;
+                int saleId = int.Parse(saleIdUpdate.Text);
+                BO.Sale sale = s_bl.Sale.Read(saleId);
+                productIdInputaUpdate.Text = sale.ProductId.ToString();
+                salePriceInputUpdate.Text = sale.PriceInSale.ToString();
+                saleQuantityInputUpdate.Text = sale.QuantityForSale.ToString();
+                checkBoxIsForEveryOneUpdate.Checked = sale.IsForEveryOne ?? false;
 
+                dateTimeStartUpdate.Value = sale.StartDateForSale ?? DateTime.Now;
+                dateTimeEndUpdate.Value = sale.EndDateForSale ?? DateTime.Now;
 
+            }
+            catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+            }
 
         }
     }

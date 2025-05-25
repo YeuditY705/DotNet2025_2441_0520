@@ -1,6 +1,5 @@
 ﻿using BlApi;
 using BO;
-//using DO;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -19,9 +18,11 @@ namespace UI
 
         public customerForm()
         {
-            InitializeComponent();
-            listBoxInSide.DataSource = s_bl.Customer.ReadAll().SelectMany(c => c.ToStringProperty().Split("\n")).ToList();
-            listBoxAllCustomers.DataSource = s_bl.Customer.ReadAll().SelectMany(c => c.ToStringProperty().Split("\n")).ToList();
+          
+                InitializeComponent();
+                listBoxInSide.DataSource = s_bl.Customer.ReadAll().SelectMany(c => c.ToStringProperty().Split("\n")).ToList();
+                listBoxAllCustomers.DataSource = s_bl.Customer.ReadAll().SelectMany(c => c.ToStringProperty().Split("\n")).ToList();
+           
         }
 
 
@@ -32,7 +33,9 @@ namespace UI
             {
                 int customerId = (int)numericUpDownCustomerId.Value;
                 customerDetails.Items.Clear();
-                customerDetails.Items.Add(s_bl.Customer.Read(customerId).ToStringProperty());
+                List<Customer> customers = new List<Customer>();
+                customers.Add(s_bl.Customer.Read(customerId));
+                customerDetails.DataSource = (customers.SelectMany(p => p.ConvertToDOCustomer().ToStringProperty().Split("\n")).ToList());
             }
             catch (Exception ex)
             {
@@ -42,7 +45,7 @@ namespace UI
 
         private void buttonFilterCustomerByName_Click(object sender, EventArgs e)
         {
-            listBoxAllCustomers.DataSource = s_bl.Customer.ReadAll(c => c.CustomerName.Contains(filterCustomerValue.Text)).Select(c => c.ToStringProperty()).ToList();
+            listBoxAllCustomers.DataSource = s_bl.Customer.ReadAll(c => c.CustomerName.Contains(filterCustomerValue.Text)).SelectMany(c => c.ToStringProperty().Split("\n")).ToList();
         }
         private void addCustomerButton_Click(object sender, EventArgs e)
         {
@@ -113,18 +116,25 @@ namespace UI
             }
             catch (Exception ex)
             {
-
+                MessageBox.Show($"Error: {ex.Message}");
             }
         }
 
         private void InsertDetailOfCustomer(object sender, EventArgs e)
         {
-            int customerId;
-            int.TryParse(customerIdUpdate.Text, out customerId);
-            BO.Customer customer = s_bl.Customer.Read(customerId);
-            customerNameInputUpdate.Text = customer.CustomerName;
-            customerAddressInputUpdate.Text = customer.CustomerAddress;
-            customerPhoneInputUpdate.Text = customer.CustomerPhone;
+            try
+            {
+                int customerId;
+                int.TryParse(customerIdUpdate.Text, out customerId);
+                BO.Customer customer = s_bl.Customer.Read(customerId);
+                customerNameInputUpdate.Text = customer.CustomerName;
+                customerAddressInputUpdate.Text = customer.CustomerAddress;
+                customerPhoneInputUpdate.Text = customer.CustomerPhone;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error: {ex.Message}");
+            }
         }
     }
 }

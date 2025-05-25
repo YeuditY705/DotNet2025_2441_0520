@@ -37,7 +37,9 @@ namespace UI
             {
                 int productId = (int)numericUpDownProductId.Value;
                 productDetails.Items.Clear();
-                productDetails.Items.Add(s_bl.Product.Read(productId).ConvertToDOProduct().ToStringProperty());
+                List<Product> products = new List<Product>();
+                products.Add(s_bl.Product.Read(productId));
+                productDetails.DataSource=(products.SelectMany(p=>p.ConvertToDOProduct().ToStringProperty().Split("\n")).ToList());
             }
             catch (Exception ex)
             {
@@ -49,7 +51,7 @@ namespace UI
         {
             try
             {
-                listBoxAllProducts.DataSource = s_bl.Product.ReadAll(p => p.ProductName.Contains(filterProductValue.Text)).Select(p => p.ConvertToDOProduct().ToStringProperty()).ToList();
+                listBoxAllProducts.DataSource = s_bl.Product.ReadAll(p => p.ProductName.Contains(filterProductValue.Text)).SelectMany(p => p.ConvertToDOProduct().ToStringProperty().Split("\n")).ToList();
             }
             catch (Exception ex)
             {
@@ -82,7 +84,6 @@ namespace UI
                     comboBoxCategory.SelectedIndex = -1;
 
                     MessageBox.Show("המוצר נוסף בהצלחה");
-                    upDateListBoxAllProducts();
                 }
             }
             catch (Exception ex)
@@ -91,19 +92,7 @@ namespace UI
             }
         }
 
-        private void upDateListBoxAllProducts()
-        {
-            try
-            {
-                listBoxAllProductsInSide.DataSource = ""; // Update as needed
-                listBoxInSide.DataSource = s_bl.Product.ReadAll().SelectMany(p => p.ConvertToDOProduct().ToStringProperty().Split("\n")).ToList();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
-
+        
         private void buttonUpdateProduct_Click(object sender, EventArgs e)
         {
             try

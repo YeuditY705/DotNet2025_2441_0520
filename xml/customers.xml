@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
-    <customerId>663</customerId>
-    <customerName>Shimon Segal</customerName>
-    <customerAddress>Jerusalem 15</customerAddress>
-    <customerPhone>054566666</customerPhone>
-  </Customer>
-  <Customer>
     <customerId>747</customerId>
     <customerName>Yosef Levi</customerName>
     <customerAddress>Mrome Sade 7</customerAddress>
@@ -35,5 +29,11 @@
     <customerName>chana choen</customerName>
     <customerAddress>aaaaaa</customerAddress>
     <customerPhone>111111111111</customerPhone>
+  </Customer>
+  <Customer>
+    <customerId>663</customerId>
+    <customerName>Shimon Segal</customerName>
+    <customerAddress>Jerusalem 15</customerAddress>
+    <customerPhone>31456</customerPhone>
   </Customer>
 </ArrayOfCustomer>

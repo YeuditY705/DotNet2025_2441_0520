@@ -250,6 +250,7 @@
             saleDetails.ItemHeight = 15;
             saleDetails.Location = new Point(137, 98);
             saleDetails.Name = "saleDetails";
+            saleDetails.RightToLeft = RightToLeft.No;
             saleDetails.Size = new Size(292, 169);
             saleDetails.TabIndex = 3;
             // 
@@ -340,6 +341,7 @@
             listBoxAllSales.ItemHeight = 15;
             listBoxAllSales.Location = new Point(19, 95);
             listBoxAllSales.Name = "listBoxAllSales";
+            listBoxAllSales.RightToLeft = RightToLeft.No;
             listBoxAllSales.Size = new Size(367, 229);
             listBoxAllSales.TabIndex = 0;
             // 

@@ -63,3 +63,16 @@ C:\Users\user1\Desktop\DotNet2025_2441_0520\BL\obj\Debug\BL.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\BL\obj\Debug\refint\BL.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\BL\obj\Debug\BL.pdb
 C:\Users\user1\Desktop\DotNet2025_2441_0520\BL\obj\Debug\ref\BL.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\BL.deps.json
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\BL.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\BL.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\refint\BL.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\BL.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\BL\obj\Debug\ref\BL.dll

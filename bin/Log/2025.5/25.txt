@@ -1,0 +1,535 @@
+	25/05/2025 15:31:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:31:46	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:31:46	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:31:46	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:31:50	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:31:50	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+			25/05/2025 15:31:50	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+				25/05/2025 15:31:55	Dal.CustomerImplementation.Read	Enters the function to read a customer
+				25/05/2025 15:31:55	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+				25/05/2025 15:31:55	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+					25/05/2025 15:32:05	Dal.CustomerImplementation.Read	Enters the function to read a customer
+					25/05/2025 15:32:05	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:33:50	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:33:50	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:33:50	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:33:50	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:33:54	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:33:54	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:34:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:34:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:34:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:34:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:34:25	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:34:25	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:38:55	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:38:55	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:38:55	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:38:55	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:39:01	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:39:01	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:39:26	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:39:26	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:39:26	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:39:26	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:39:29	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:39:29	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:40:35	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:40:35	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:40:35	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:40:35	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:40:39	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:40:39	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:41:04	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:41:04	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:41:04	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:41:04	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:41:08	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:41:08	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+	25/05/2025 15:41:32	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:41:32	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:41:32	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:41:32	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:41:36	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:41:36	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+				25/05/2025 15:42:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 15:42:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+					25/05/2025 15:42:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+					25/05/2025 15:42:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+	25/05/2025 15:42:42	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:42:42	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:42:42	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:42:42	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 15:42:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 15:42:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+				25/05/2025 15:42:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 15:42:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 15:44:25	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:44:25	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:44:25	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:44:25	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 15:44:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:44:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:44:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:44:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 15:45:40	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:45:40	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:45:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:45:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 15:45:47	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 15:45:47	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 15:50:09	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:50:09	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:50:09	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:50:09	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:50:15	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 15:50:16	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+				25/05/2025 15:50:19	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 15:50:19	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+					25/05/2025 15:50:29	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+					25/05/2025 15:50:29	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+	25/05/2025 15:51:23	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:51:23	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:51:23	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:51:23	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:51:27	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 15:51:27	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+	25/05/2025 15:51:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:51:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:51:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:51:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+	25/05/2025 15:52:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:52:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:52:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:52:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:52:25	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 15:52:25	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+				25/05/2025 15:52:29	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 15:52:29	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 15:53:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:53:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:53:21	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:53:21	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:53:25	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 15:53:25	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+	25/05/2025 15:53:32	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:53:32	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:53:32	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:53:32	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 15:53:37	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 15:53:37	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+	25/05/2025 15:54:16	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 15:54:16	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 15:54:16	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 15:54:16	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 15:54:20	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 15:54:20	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+				25/05/2025 15:54:21	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 15:54:21	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+					25/05/2025 15:54:24	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 15:54:24	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+	25/05/2025 15:54:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:54:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:54:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:54:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:54:50	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:54:50	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+				25/05/2025 15:54:57	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 15:54:57	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+					25/05/2025 15:55:01	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+					25/05/2025 15:55:01	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+						25/05/2025 15:55:15	Dal.CustomerImplementation.Create	Enters the function to create a customer
+						25/05/2025 15:55:15	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+							25/05/2025 15:55:15	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+							25/05/2025 15:55:15	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+								25/05/2025 15:55:28	Dal.CustomerImplementation.Read	Enters the function to read a customer
+								25/05/2025 15:55:28	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+								25/05/2025 15:55:28	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+	25/05/2025 15:56:40	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 15:56:40	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 15:56:40	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 15:56:40	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 15:56:45	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 15:56:45	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+				25/05/2025 15:56:50	Dal.CustomerImplementation.Read	Enters the function to read a customer
+				25/05/2025 15:56:50	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+				25/05/2025 15:56:50	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+					25/05/2025 15:56:54	Dal.CustomerImplementation.Read	Enters the function to read a customer
+					25/05/2025 15:56:54	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+					25/05/2025 15:56:54	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+						25/05/2025 15:57:02	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+						25/05/2025 15:57:02	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+							25/05/2025 15:57:02	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+							25/05/2025 15:57:02	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+								25/05/2025 15:57:06	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+								25/05/2025 15:57:06	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+									25/05/2025 15:57:06	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+									25/05/2025 15:57:06	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+										25/05/2025 15:57:21	Dal.ProductImplementation.Read	Entering the function to read a product
+										25/05/2025 15:57:21	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+											25/05/2025 15:57:28	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+											25/05/2025 15:57:28	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+												25/05/2025 15:57:31	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+												25/05/2025 15:57:31	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+													25/05/2025 15:57:41	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+													25/05/2025 15:57:41	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+														25/05/2025 15:57:57	Dal.ProductImplementation.Create	Entering the function to create a product
+														25/05/2025 15:57:57	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+														25/05/2025 15:57:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+														25/05/2025 15:57:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 16:00:04	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 16:00:04	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 16:00:05	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 16:00:05	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 16:00:12	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 16:00:12	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+				25/05/2025 16:00:17	Dal.CustomerImplementation.Read	Enters the function to read a customer
+				25/05/2025 16:00:17	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+					25/05/2025 16:00:17	Dal.CustomerImplementation.Update	Enters the function to update a customer
+						25/05/2025 16:00:17	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+						25/05/2025 16:00:17	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+							25/05/2025 16:00:17	Dal.CustomerImplementation.Create	Enters the function to create a customer
+							25/05/2025 16:00:17	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+							25/05/2025 16:00:17	Dal.CustomerImplementation.Update	Successfully exited the function to update a customer
+								25/05/2025 16:00:17	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+								25/05/2025 16:00:17	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+									25/05/2025 16:00:22	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+									25/05/2025 16:00:22	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+										25/05/2025 16:00:22	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+										25/05/2025 16:00:22	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+											25/05/2025 16:00:26	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+											25/05/2025 16:00:26	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 16:02:01	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 16:02:01	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 16:02:01	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 16:02:01	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 16:02:06	Dal.ProductImplementation.Read	Entering the function to read a product
+			25/05/2025 16:02:06	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+	25/05/2025 16:04:41	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 16:04:41	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 16:04:41	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 16:04:41	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 16:04:45	Dal.ProductImplementation.Read	Entering the function to read a product
+			25/05/2025 16:04:45	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+	25/05/2025 16:04:56	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 16:04:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 16:04:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 16:04:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 16:04:59	Dal.ProductImplementation.Read	Entering the function to read a product
+			25/05/2025 16:04:59	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+	25/05/2025 16:05:47	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 16:05:47	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 16:05:47	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 16:05:47	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 16:05:49	Dal.ProductImplementation.Read	Entering the function to read a product
+			25/05/2025 16:05:50	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+	25/05/2025 16:08:34	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 16:08:34	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 16:08:34	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 16:08:34	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 16:08:37	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 16:08:37	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+			25/05/2025 16:08:37	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+				25/05/2025 16:08:43	Dal.CustomerImplementation.Read	Enters the function to read a customer
+				25/05/2025 16:08:43	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+					25/05/2025 16:08:46	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 16:08:46	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+						25/05/2025 16:08:46	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+						25/05/2025 16:08:46	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+							25/05/2025 16:08:49	Dal.ProductImplementation.Read	Entering the function to read a product
+							25/05/2025 16:08:49	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+								25/05/2025 16:08:53	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+								25/05/2025 16:08:54	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+									25/05/2025 16:08:54	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+									25/05/2025 16:08:54	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+										25/05/2025 16:08:55	Dal.SaleImplementation.Read	Entering the function to read a sale
+										25/05/2025 16:08:55	Dal.SaleImplementation.Read	Successfully exited the function to read a sale
+	25/05/2025 16:10:05	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 16:10:05	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 16:10:05	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 16:10:05	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 16:10:11	Dal.CustomerImplementation.Read	Enters the function to read a customer
+			25/05/2025 16:10:11	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+				25/05/2025 16:10:13	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 16:10:13	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+					25/05/2025 16:10:13	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 16:10:13	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+						25/05/2025 16:10:19	Dal.ProductImplementation.Read	Entering the function to read a product
+						25/05/2025 16:10:19	Dal.ProductImplementation.Read	Failed to read product: id does not exist
+						25/05/2025 16:10:19	Dal.ProductImplementation.Read	Failed to read product: id not exist
+							25/05/2025 16:10:22	Dal.ProductImplementation.Read	Entering the function to read a product
+							25/05/2025 16:10:22	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+	25/05/2025 16:10:50	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 16:10:50	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 16:10:50	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 16:10:50	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 16:10:52	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 16:10:52	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+				25/05/2025 16:10:52	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 16:10:52	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+					25/05/2025 16:10:55	Dal.ProductImplementation.Read	Entering the function to read a product
+					25/05/2025 16:10:55	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+						25/05/2025 16:11:00	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+						25/05/2025 16:11:00	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+							25/05/2025 16:11:00	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+							25/05/2025 16:11:00	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+								25/05/2025 16:11:02	Dal.SaleImplementation.Read	Entering the function to read a sale
+								25/05/2025 16:11:02	Dal.SaleImplementation.Read	Successfully exited the function to read a sale
+									25/05/2025 16:11:15	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+									25/05/2025 16:11:15	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+										25/05/2025 16:11:15	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+										25/05/2025 16:11:15	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+											25/05/2025 16:11:19	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+											25/05/2025 16:11:19	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+												25/05/2025 16:11:19	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+												25/05/2025 16:11:19	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+													25/05/2025 16:11:22	Dal.CustomerImplementation.Read	Enters the function to read a customer
+													25/05/2025 16:11:22	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+													25/05/2025 16:11:22	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+														25/05/2025 16:11:50	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+														25/05/2025 16:11:50	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+															25/05/2025 16:11:50	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+															25/05/2025 16:11:50	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+																25/05/2025 16:11:55	Dal.ProductImplementation.Read	Entering the function to read a product
+																25/05/2025 16:11:55	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+																	25/05/2025 16:11:57	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																	25/05/2025 16:11:57	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																		25/05/2025 16:11:57	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																		25/05/2025 16:11:57	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																			25/05/2025 16:12:01	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																			25/05/2025 16:12:01	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+																				25/05/2025 16:12:01	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																				25/05/2025 16:12:01	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+																					25/05/2025 16:12:10	Dal.SaleImplementation.Read	Entering the function to read a sale
+																					25/05/2025 16:12:10	Dal.SaleImplementation.Read	Successfully exited the function to read a sale
+																						25/05/2025 16:12:22	Dal.SaleImplementation.Read	Entering the function to read a sale
+																						25/05/2025 16:12:22	Dal.SaleImplementation.Read	Failed to read sale: id does not exist
+																						25/05/2025 16:12:22	Dal.SaleImplementation.Read	Failed to read sale: id not exist
+	25/05/2025 17:27:22	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 17:27:22	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 17:27:22	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 17:27:22	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 17:27:30	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 17:27:30	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+				25/05/2025 17:27:35	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 17:27:35	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+					25/05/2025 17:27:42	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+					25/05/2025 17:27:42	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+						25/05/2025 17:27:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+						25/05/2025 17:27:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+							25/05/2025 17:27:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+							25/05/2025 17:27:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+								25/05/2025 17:27:53	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+								25/05/2025 17:27:53	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+									25/05/2025 17:27:53	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+									25/05/2025 17:27:53	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+										25/05/2025 17:27:59	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+										25/05/2025 17:27:59	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products with filter
+											25/05/2025 17:28:09	Dal.ProductImplementation.Create	Entering the function to create a product
+											25/05/2025 17:28:09	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+											25/05/2025 17:28:09	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+											25/05/2025 17:28:09	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 17:28:37	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:28:38	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:28:38	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 17:28:38	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 17:28:44	Dal.ProductImplementation.Delete	Entering the function to delete a product
+			25/05/2025 17:28:44	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+				25/05/2025 17:28:44	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 17:28:44	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+					25/05/2025 17:28:54	Dal.ProductImplementation.Create	Entering the function to create a product
+					25/05/2025 17:28:54	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+					25/05/2025 17:28:54	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 17:28:54	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+						25/05/2025 17:29:04	Dal.ProductImplementation.Delete	Entering the function to delete a product
+						25/05/2025 17:29:04	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+							25/05/2025 17:29:04	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+							25/05/2025 17:29:04	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 17:29:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:29:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:29:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 17:29:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 17:30:01	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 17:30:01	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+				25/05/2025 17:30:01	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 17:30:01	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+					25/05/2025 17:30:05	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 17:30:06	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+						25/05/2025 17:30:06	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+						25/05/2025 17:30:06	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+							25/05/2025 17:30:36	Dal.ProductImplementation.Create	Entering the function to create a product
+							25/05/2025 17:30:36	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+	25/05/2025 17:30:49	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:30:49	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:30:49	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 17:30:49	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 17:31:54	Dal.ProductImplementation.Create	Entering the function to create a product
+			25/05/2025 17:32:22	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+			25/05/2025 17:32:43	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 17:32:49	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 17:33:28	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:33:28	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:33:28	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 17:33:28	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 17:33:34	Dal.ProductImplementation.Delete	Entering the function to delete a product
+			25/05/2025 17:33:34	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+				25/05/2025 17:33:34	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+				25/05/2025 17:33:34	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+					25/05/2025 17:33:42	Dal.ProductImplementation.Create	Entering the function to create a product
+					25/05/2025 17:33:42	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+					25/05/2025 17:33:42	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 17:33:42	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+	25/05/2025 17:34:28	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:34:28	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:34:28	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+		25/05/2025 17:34:28	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+			25/05/2025 17:34:57	Dal.ProductImplementation.Create	Entering the function to create a product
+			25/05/2025 17:34:57	Dal.ProductImplementation.Create	Successfully exited the function to create a product
+			25/05/2025 17:34:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 17:34:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+				25/05/2025 17:35:19	Dal.ProductImplementation.Delete	Entering the function to delete a product
+				25/05/2025 17:35:19	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+					25/05/2025 17:35:19	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+					25/05/2025 17:35:19	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+						25/05/2025 17:35:25	Dal.ProductImplementation.Delete	Entering the function to delete a product
+						25/05/2025 17:35:25	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+							25/05/2025 17:35:25	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+							25/05/2025 17:35:25	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+								25/05/2025 17:35:30	Dal.ProductImplementation.Delete	Entering the function to delete a product
+								25/05/2025 17:35:30	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+									25/05/2025 17:35:30	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+									25/05/2025 17:35:30	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+										25/05/2025 17:35:31	Dal.ProductImplementation.Delete	Entering the function to delete a product
+										25/05/2025 17:35:31	Dal.ProductImplementation.Delete	Failed to delete product: id does not exist
+										25/05/2025 17:35:31	Dal.ProductImplementation.Delete	Failed to delete product: id not exist
+											25/05/2025 17:35:51	Dal.ProductImplementation.Delete	Entering the function to delete a product
+											25/05/2025 17:35:52	Dal.ProductImplementation.Delete	Successfully exited the function to delete a product
+												25/05/2025 17:35:52	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+												25/05/2025 17:35:52	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+													25/05/2025 17:35:57	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+													25/05/2025 17:35:58	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+														25/05/2025 17:35:58	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+														25/05/2025 17:35:58	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+															25/05/2025 17:36:02	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+															25/05/2025 17:36:02	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+																25/05/2025 17:36:02	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+																25/05/2025 17:36:02	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+																	25/05/2025 17:36:03	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																	25/05/2025 17:36:03	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																		25/05/2025 17:36:03	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																		25/05/2025 17:36:03	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																			25/05/2025 17:36:13	Dal.CustomerImplementation.Read	Enters the function to read a customer
+																			25/05/2025 17:36:13	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+																				25/05/2025 17:36:18	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																				25/05/2025 17:36:18	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+																					25/05/2025 17:36:22	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																					25/05/2025 17:36:22	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers with filter
+																						25/05/2025 17:36:30	Dal.CustomerImplementation.Create	Enters the function to create a customer
+																						25/05/2025 17:36:30	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+																							25/05/2025 17:36:30	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																							25/05/2025 17:36:30	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																								25/05/2025 17:36:39	Dal.CustomerImplementation.Read	Enters the function to read a customer
+																								25/05/2025 17:36:39	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+																								25/05/2025 17:36:39	Dal.CustomerImplementation.Read	Failed to read customer: id not exists
+																									25/05/2025 17:36:44	Dal.CustomerImplementation.Read	Enters the function to read a customer
+																									25/05/2025 17:36:44	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+																										25/05/2025 17:36:49	Dal.CustomerImplementation.Read	Enters the function to read a customer
+																										25/05/2025 17:36:49	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+																											25/05/2025 17:36:49	Dal.CustomerImplementation.Update	Enters the function to update a customer
+																												25/05/2025 17:36:49	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+																												25/05/2025 17:36:49	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+																													25/05/2025 17:36:49	Dal.CustomerImplementation.Create	Enters the function to create a customer
+																													25/05/2025 17:36:49	Dal.CustomerImplementation.Create	Successfully exited the function to create a customer
+																													25/05/2025 17:36:49	Dal.CustomerImplementation.Update	Successfully exited the function to update a customer
+																														25/05/2025 17:36:49	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																														25/05/2025 17:36:49	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																															25/05/2025 17:36:56	Dal.CustomerImplementation.Delete	Enters the function to delete a customer
+																															25/05/2025 17:36:56	Dal.CustomerImplementation.Delete	Successfully exited the function to delete a customer
+																																25/05/2025 17:36:56	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+																																25/05/2025 17:36:56	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+																																	25/05/2025 17:37:07	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+																																	25/05/2025 17:37:07	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+																																		25/05/2025 17:37:07	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+																																		25/05/2025 17:37:07	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+																																			25/05/2025 17:37:10	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																																			25/05/2025 17:37:10	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+																																				25/05/2025 17:37:10	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																																				25/05/2025 17:37:10	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+																																					25/05/2025 17:37:18	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																																					25/05/2025 17:37:18	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 17:38:02	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+	25/05/2025 17:38:02	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+		25/05/2025 17:38:02	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+		25/05/2025 17:38:02	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+			25/05/2025 17:38:05	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+			25/05/2025 17:38:05	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 17:38:28	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+	25/05/2025 17:38:29	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+		25/05/2025 17:38:29	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+		25/05/2025 17:38:29	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales
+			25/05/2025 17:38:32	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+			25/05/2025 17:38:32	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 17:38:48	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+	25/05/2025 17:38:48	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+		25/05/2025 17:38:48	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 17:38:48	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 17:38:54	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+			25/05/2025 17:38:54	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+				25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+					25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+					25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+						25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+						25/05/2025 17:38:54	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+							25/05/2025 17:38:54	Dal.CustomerImplementation.Read	Enters the function to read a customer
+							25/05/2025 17:38:54	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+								25/05/2025 17:38:59	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+								25/05/2025 17:38:59	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+									25/05/2025 17:38:59	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+									25/05/2025 17:38:59	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+										25/05/2025 17:38:59	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+										25/05/2025 17:38:59	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+											25/05/2025 17:39:09	Dal.ProductImplementation.Read	Entering the function to read a product
+											25/05/2025 17:39:09	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+												25/05/2025 17:39:09	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+												25/05/2025 17:39:09	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+													25/05/2025 17:39:12	Dal.ProductImplementation.Read	Entering the function to read a product
+													25/05/2025 17:39:13	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+														25/05/2025 17:39:13	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+														25/05/2025 17:39:13	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+															25/05/2025 17:39:25	Dal.ProductImplementation.Read	Entering the function to read a product
+															25/05/2025 17:39:25	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+																25/05/2025 17:39:25	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																25/05/2025 17:39:25	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+																	25/05/2025 17:39:28	Dal.ProductImplementation.Read	Entering the function to read a product
+																	25/05/2025 17:39:28	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+																		25/05/2025 17:39:28	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+																		25/05/2025 17:39:28	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 17:40:57	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:40:57	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:40:57	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 17:40:58	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 17:40:58	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 17:40:58	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+				25/05/2025 17:40:58	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 17:40:58	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+					25/05/2025 17:40:58	Dal.CustomerImplementation.Read	Enters the function to read a customer
+					25/05/2025 17:40:58	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer
+						25/05/2025 17:41:04	Dal.ProductImplementation.Read	Entering the function to read a product
+						25/05/2025 17:41:04	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+							25/05/2025 17:41:04	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+							25/05/2025 17:41:04	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+								25/05/2025 17:41:13	Dal.ProductImplementation.Read	Entering the function to read a product
+								25/05/2025 17:41:13	Dal.ProductImplementation.Read	Successfully exited the function to read a product
+									25/05/2025 17:41:13	Dal.SaleImplementation.ReadAll	Entering the function to read all sales
+									25/05/2025 17:41:13	Dal.SaleImplementation.ReadAll	Successfully exited the function to read all sales with filter
+	25/05/2025 17:41:45	Dal.ProductImplementation.ReadAll	Entering the function to read all products
+	25/05/2025 17:41:45	Dal.ProductImplementation.ReadAll	Successfully exited the function to read all products
+		25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+		25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+			25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+			25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+				25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Enters the function to read all customers
+				25/05/2025 17:41:45	Dal.CustomerImplementation.ReadAll	Successfully exited the function to read all customers
+					25/05/2025 17:41:45	Dal.CustomerImplementation.Read	Enters the function to read a customer
+					25/05/2025 17:41:45	Dal.CustomerImplementation.Read	Successfully exited the function to read a customer

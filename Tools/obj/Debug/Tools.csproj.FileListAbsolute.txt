@@ -55,3 +55,14 @@ C:\Users\user1\Desktop\DotNet2025_2441_0520\Tools\obj\Debug\Tools.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\Tools\obj\Debug\refint\Tools.dll
 C:\Users\user1\Desktop\DotNet2025_2441_0520\Tools\obj\Debug\Tools.pdb
 C:\Users\user1\Desktop\DotNet2025_2441_0520\Tools\obj\Debug\ref\Tools.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\Tools.deps.json
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\Tools.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\bin\Tools.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\refint\Tools.dll
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\Tools.pdb
+Z:\B\יעקבזון יהודית\C#\DotNet2025_2441_0520-master\Tools\obj\Debug\ref\Tools.dll

@@ -73,10 +73,12 @@
             // quantityInput
             // 
             quantityInput.Location = new Point(288, 102);
+            quantityInput.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             quantityInput.Name = "quantityInput";
             quantityInput.RightToLeft = RightToLeft.Yes;
             quantityInput.Size = new Size(100, 23);
             quantityInput.TabIndex = 3;
+            quantityInput.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // productIdInput
             // 
@@ -101,7 +103,7 @@
             productsInOrderListBox.ItemHeight = 15;
             productsInOrderListBox.Location = new Point(12, 28);
             productsInOrderListBox.Name = "productsInOrderListBox";
-            productsInOrderListBox.Size = new Size(243, 259);
+            productsInOrderListBox.Size = new Size(243, 349);
             productsInOrderListBox.TabIndex = 6;
             // 
             // label2
@@ -135,7 +137,7 @@
             // finalPriceLabel
             // 
             finalPriceLabel.AutoSize = true;
-            finalPriceLabel.Location = new Point(101, 322);
+            finalPriceLabel.Location = new Point(157, 406);
             finalPriceLabel.Name = "finalPriceLabel";
             finalPriceLabel.Size = new Size(0, 15);
             finalPriceLabel.TabIndex = 13;
